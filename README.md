@@ -70,7 +70,7 @@ To deploy the twitter bot run
 
 #### Get all items
 
-Replace 'XXXX' in authCredentials.py with your Twitter Developer App keys
+Replace 'XXX' in authCredentials.py with your Twitter Developer App keys
 
 
 | Parameter | Type     | Description                |
