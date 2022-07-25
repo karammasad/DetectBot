@@ -41,6 +41,10 @@ Team Oak Tree (Middle East)
 
 [ManTraNet Github Repository](https://github.com/ISICV/ManTraNet)
 
+## Video Pitch
+
+
+[<img src="https://i.ytimg.com/vi/n-PCkDQ-KmA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCfj3BbD_jl4T8_a-dpTbIqEsMvBw" width="50%">](https://www.youtube.com/watch?v=n-PCkDQ-KmA "Now in Android: 55")
 
 
 ## Bot Replies (Active)
