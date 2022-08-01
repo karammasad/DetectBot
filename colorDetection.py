@@ -23,17 +23,23 @@ def color_analysis():
     print('Percentage Grey:', percent_grey)
 
     global percentCertanity
+    global emoji
 
     percent_difference = abs(percent_grey - 0.63)
 
     if (percent_difference <= 1.87):
         percentCertanity = 25
+        emoji = "🧐"
     elif(percent_difference > 1.87 and percent_difference <= 2.87):
         percentCertanity = 50
+        emoji = "😬"
     elif(percent_difference > 2.87 and percent_difference <= 4.87):
-        percentCertanity = 50
+        percentCertanity = 75
+        emoji = "😵"
     else:
-        percentCertanity = 100
+        percentCertanity = 90
+        emoji = "❌"
+
 
 
     
