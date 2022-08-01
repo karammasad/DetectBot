@@ -25,7 +25,7 @@ def color_analysis():
     global percentCertanity
     global emoji
 
-    percent_difference = abs(percent_grey - 0.63)
+    percent_difference = abs(percent_grey - 0.636)
 
     if (percent_difference <= 1.87):
         percentCertanity = 25
